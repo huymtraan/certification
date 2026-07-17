@@ -1,0 +1,7 @@
+# Sensitive originals and archived duplicates
+private/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
