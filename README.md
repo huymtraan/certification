@@ -14,6 +14,7 @@ specialization are kept under `Supporting Courses`.
 | [03-LEADERSHIP](03-LEADERSHIP/) | Leadership and university activities |
 | [04-ACADEMIC](04-ACADEMIC/) | Academic record |
 | [05-LANGUAGE](05-LANGUAGE/) | Language qualifications |
+| [06-RESEARCH](06-RESEARCH/) | Research methods and skills |
 
 ## Highlights
 
@@ -24,6 +25,10 @@ specialization are kept under `Supporting Courses`.
 - [President, Flagship Startup Club](<03-LEADERSHIP/Flagship Startup Club President - International University - 2023.pdf>)
 - [Biotechnology transcript — GPA 3.34/4.00, Very Good](<04-ACADEMIC/Biotechnology Transcript - International University - 2026.pdf>)
 - [IELTS Academic — Overall 7.0, CEFR C1](<05-LANGUAGE/IELTS Academic - 2026.pdf>)
+
+## Research methods
+
+- [Research Question — Sage Publications](<06-RESEARCH/Research Question - Sage Publications - 2026.pdf>)
 
 ## Supporting certificates
 
@@ -38,6 +43,7 @@ represented by a larger credential:
 
 | Credential | Verification |
 | --- | --- |
+| Research Question | [VTEJW5AEQL9J](https://coursera.org/verify/VTEJW5AEQL9J) |
 | Machine Learning Specialization | [TQZK4RUPZVSH](https://coursera.org/verify/specialization/TQZK4RUPZVSH) |
 | Supervised Machine Learning | [AMZT6F5U9WHZ](https://coursera.org/verify/AMZT6F5U9WHZ) |
 | Advanced Learning Algorithms | [IADI0VRQTJBI](https://coursera.org/verify/IADI0VRQTJBI) |
