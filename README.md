@@ -57,9 +57,9 @@ represented by a larger credential:
 
 ## Privacy and document use
 
-Documents containing unnecessary personal identifiers are published only as
-flattened, redacted copies. Original documents and archived duplicate downloads
-are stored locally under `private/`, which is excluded from Git.
+Selected documents are published as flattened, redacted copies; other
+certificates retain their original form. Local source copies and archived
+duplicate downloads are stored under `private/`, which is excluded from Git.
 
 These documents are provided for personal credential verification only. All
 trademarks, certificate designs, and institutional marks belong to their
